@@ -1,4 +1,4 @@
-# QuickShare
+# Parul social media
 # <a href="https://hemant-sahu.netlify.app/">Live Demo</a>
 # About
 A Realtime social media application with users, posts, likes,comments and messages - developed using React, Node, Express,MongoDB and SocketIO.
